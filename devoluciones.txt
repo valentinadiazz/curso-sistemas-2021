@@ -1,0 +1,11 @@
+Bloque 1/2/3
+============
+
+Edición mediante el inspeccionador: OK
+
+Formulario GET/POST: Pendiente
+
+Calculadora: Pendiente
+
+Manejo de GIT: OK. Repositorio limpio.
+
